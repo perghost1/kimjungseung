@@ -4,8 +4,9 @@ public class MainClass {
 
 	public static void main(String[] args) {
 		A a = new A();
-		System.out.println("¿¬½ÀÀÔ´Ï´Ù.");
-
+		System.out.println("í•˜í•˜í•˜í•˜í•˜í•˜ ì—°ìŠµ");
+		
+		B b = new B();
 	}
 
 }
