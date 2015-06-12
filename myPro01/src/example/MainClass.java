@@ -7,6 +7,7 @@ public class MainClass {
 		C c=new C();
 		D d=new D();
 		E e=new E();
+		AA ab = new AA();
 		
 		System.out.println(e.a);
 		System.out.println("연습");
